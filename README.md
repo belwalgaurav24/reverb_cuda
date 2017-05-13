@@ -54,4 +54,8 @@ Mono audio files are not support with stream optimization
 
 
 
+Project Github Link : https://github.com/singhabhishek/reverb_cuda
+
+
+
 
